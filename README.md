@@ -1,0 +1,1 @@
+Desenvolvi este site em abril de 2024, ele se trata de um site da minha empresa fictícia de Pet shop chamado WalkDog, foi bem fácil de desenvolve-lo e fico cada vez mais contente em ver minhas habilidades técnicas aumentando.
